@@ -10,3 +10,8 @@
 <img width="633" height="323" alt="Vagrant_VM_Provisioning_08" src="https://github.com/user-attachments/assets/45f132c3-0cfd-43ee-ae31-c20fe91327a5" />
 <img width="706" height="318" alt="Vagrant_VM_Provisioning_09" src="https://github.com/user-attachments/assets/9e43145b-e205-4db7-9063-1ce5f7766cd2" />
 <img width="651" height="332" alt="Vagrant_VM_Provisioning_10" src="https://github.com/user-attachments/assets/8d1abae8-6095-4ba2-901c-28c030202ac4" />
+<img width="590" height="445" alt="Vagrant_VM_Provisioning_11" src="https://github.com/user-attachments/assets/58543026-937c-44ed-9986-7c25c26ce130" />
+<img width="590" height="409" alt="Vagrant_VM_Provisioning_12" src="https://github.com/user-attachments/assets/48a5611a-2d13-419e-aae0-8062dd69643c" />
+<img width="481" height="379" alt="Vagrant_VM_Provisioning_13" src="https://github.com/user-attachments/assets/00aa0e78-256e-439d-bef4-c614fcd3b2ad" />
+<img width="518" height="191" alt="Vagrant_VM_Provisioning_14" src="https://github.com/user-attachments/assets/3817299e-6360-49de-9577-078c9a2a6d09" />
+<img width="517" height="347" alt="Vagrant_VM_Provisioning_15" src="https://github.com/user-attachments/assets/a3737239-2053-4106-87f6-9376386808f2" />
