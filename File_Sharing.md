@@ -8,3 +8,6 @@
 <img width="455" height="318" alt="File_Share_host_ _Vagrant_06" src="https://github.com/user-attachments/assets/5a452eca-ba1b-4475-acdb-7228096a78a5" />
 <img width="649" height="480" alt="File_Share_host_ _Vagrant_07" src="https://github.com/user-attachments/assets/91911c87-2003-465b-b35b-f73a4f0c2e16" />
 <img width="505" height="500" alt="File_Share_host_ _Vagrant_08" src="https://github.com/user-attachments/assets/d90936af-8854-40d9-a483-a7f1c3f82ce8" />
+<img width="482" height="371" alt="File_Share_host_ _Vagrant_09" src="https://github.com/user-attachments/assets/aca77b35-57fb-4440-816a-b9d31efa7fd7" />
+<img width="604" height="485" alt="File_Share_host_ _Vagrant_10" src="https://github.com/user-attachments/assets/c3a7a3ae-e6d8-46e0-babd-03a6404507ed" />
+<img width="649" height="484" alt="File_Share_host_ _Vagrant_11" src="https://github.com/user-attachments/assets/b6172a26-ab70-40f5-8f63-e365386afaf4" />
