@@ -11,3 +11,5 @@
 <img width="482" height="371" alt="File_Share_host_ _Vagrant_09" src="https://github.com/user-attachments/assets/aca77b35-57fb-4440-816a-b9d31efa7fd7" />
 <img width="604" height="485" alt="File_Share_host_ _Vagrant_10" src="https://github.com/user-attachments/assets/c3a7a3ae-e6d8-46e0-babd-03a6404507ed" />
 <img width="649" height="484" alt="File_Share_host_ _Vagrant_11" src="https://github.com/user-attachments/assets/b6172a26-ab70-40f5-8f63-e365386afaf4" />
+<img width="498" height="349" alt="File_Share_host_ _Vagrant_12" src="https://github.com/user-attachments/assets/2ec9ce36-9098-4a0f-9bba-8f93276c5f14" />
+<img width="556" height="500" alt="File_Share_host_ _Vagrant_13" src="https://github.com/user-attachments/assets/6135f11a-c021-4763-a0f4-bdfb76f0aa88" />
